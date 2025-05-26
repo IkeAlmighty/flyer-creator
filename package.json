@@ -1,0 +1,16 @@
+{
+  "name": "flyer-creator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "render": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@napi-rs/canvas": "^0.1.70",
+    "sharp": "^0.34.2"
+  },
+  "devDependencies": {}
+}
